@@ -1,0 +1,1 @@
+cmd_/home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap3/modules.order := {   echo /home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap3/ProgrammingProjects_Chap3.ko; :; } | awk '!x[$$0]++' - > /home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap3/modules.order

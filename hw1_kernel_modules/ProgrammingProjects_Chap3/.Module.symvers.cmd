@@ -1,0 +1,1 @@
+cmd_/home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap3/Module.symvers := sed 's/\.ko$$/\.o/' /home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap3/modules.order | scripts/mod/modpost -m -a  -o /home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap3/Module.symvers -e -i Module.symvers   -T -

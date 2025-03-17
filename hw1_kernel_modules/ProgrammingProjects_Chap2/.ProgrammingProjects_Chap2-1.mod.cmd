@@ -1,0 +1,1 @@
+cmd_/home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap2/ProgrammingProjects_Chap2-1.mod := { echo  /home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap2/ProgrammingProjects_Chap2-1.o;  echo; } > /home/parallels/Documents/NTUT/OperatingSystem/HW1/ProgrammingProjects_Chap2/ProgrammingProjects_Chap2-1.mod
